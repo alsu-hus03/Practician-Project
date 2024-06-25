@@ -1,0 +1,212 @@
+@media(max-width: 786px) {
+
+    h1 {
+        font-size: 35px;
+    }
+    .banner {
+        background-position: center center;
+    }
+    .main-nav {
+        display: none;
+    }
+
+    .main-nav-bottom {
+        display: block;
+    }
+
+    .btn-application {
+        margin-left: 0;
+        margin-top: 24px;
+        width: 333px;
+        height: 34px;
+    }
+
+    .add {
+      padding-left: 0;  
+      font-size: 25px;
+      line-height: 1;
+    margin-top: 120px;
+    }
+
+    .guarantees h1, .guarantees h2  {
+        font-size: 35px;
+    }
+
+    .block {
+        display: block;
+        width: 100%;
+    }
+
+    .block-one, .block-two, .block-three, .block-four {
+        margin-left: 5px;
+    }
+
+    .block-fife {
+        margin-left: 7px;
+    }
+
+    .payments h1 {
+        font-size: 32px;
+    }
+
+    .payments-table {
+        display: block;
+    }
+
+    .vacancy .vacancy-items {
+        display: block;
+    }
+
+    .vacancy-items-one h2, .vacancy-items-two h2, 
+    .vacancy-items-three h2, .vacancy-items-four h2, 
+    .vacancy-items-fife h2, .vacancy-items-six h2 {
+        font-size: 22px;
+    }
+
+    .vacancy-items-one p, .vacancy-items-two p, 
+    .vacancy-items-three p, .vacancy-items-four p, 
+    .vacancy-items-fife p, .vacancy-items-six p {
+        font-size: 13px;
+    }
+
+
+    .benefits-card__list li {
+        line-height: 22px;
+    }
+
+    .benefits-card__list p {
+        font-size: 14px;
+    }
+
+    .benefits-card__list li::before {
+        background-size: contain;
+    }
+
+    .benefits-card__list li:not(last-child) {
+        margin-left: 0; 
+    }
+
+    .benefits h1 {
+    font-size: 32px;
+}
+
+    .contract h1 {
+    font-size: 33px;
+}
+
+.contract-items-one h2, .contract-items-two h2, 
+.contract-items-three h2, .contract-items-four h2 {
+    font-size: 22px;
+}
+
+.proposal p {
+    font-size: 15px;
+}
+
+.proposal-content {
+        margin-left: 0;
+        padding-bottom: 5px;
+}
+
+    .proposal-content h2 {
+        font-size: 35px;
+    }
+
+    .provision-items-one__card h2, 
+    .provision-items-two__card h2, 
+    .provision-items-three__card h2 {
+        font-size: 28px;
+    }
+
+    .contract-items-one p, .contract-items-two p, 
+    .contract-items-three p , .contract-items-four p {
+	font-size: 15px;
+}
+
+.women__item p {
+    font-size: 15px;
+}
+
+.btn-women__item-one, .btn-women__item-two {
+    width: 333px;
+    height: 34px; 
+}
+
+    .approval-items {
+        margin-right: 20px;
+        margin-top: 12px;
+    }
+
+    .checkbox-area input[type=checkbox] {
+        margin-left: 40px;
+    }
+
+    .feedack-card {
+      height: 472px;
+    }
+
+    .women__item h2 {
+        font-size: 35px;
+    }
+
+    .contract .contract-items {
+        display: block;
+    }
+
+    .payments-table__price {
+        margin-top: 11px;
+        display: flex;
+        justify-content: left;
+        bottom: 0;
+    }
+
+    .btn-women__item-two {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .accordion__title {
+        font-size: 25px;
+        margin-left: 15px;
+}
+.accordion:after {
+    left: 12px;
+}
+
+    .feedack-card h2 {
+        font-size: 26px;
+        text-align: center;
+        display: flex;
+    }
+
+    .feedback-form {
+        width: 95%;
+        margin: 1px 3px 9px 9px;
+        left: 0;
+        top: 0;
+    }
+
+    .footer .footer__items-left h2 {
+        font-size: 30px;
+    }
+
+    .footer .footer__items-left .phone, .streets {
+        margin-left: 0;
+        display: block;
+    }
+
+    .footer .footer__items-right {
+        padding-top: 0;
+    }
+
+    .footer .footer__items-right span {
+        font-size: 15px;
+    }
+
+    .social-list {
+        position: relative;
+        left: 183px;
+        bottom: 236px;
+    }
+
+  }
